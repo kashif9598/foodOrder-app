@@ -1,0 +1,106 @@
+{
+    "info": {
+        "id": "259110",
+        "name": "Moti Mahal Delux",
+        "cloudinaryImageId": "cbf55af637cb4463a4c4dbc79f9616d3",
+        "locality": "Sitabuldi",
+        "areaName": "Sitabuldi",
+        "costForTwo": "₹350 for two",
+        "cuisines": [
+            "North Indian",
+            "Mughlai",
+            "Biryani",
+            "Chinese",
+            "Thalis",
+            "Indian"
+        ],
+        "avgRating": 4.1,
+        "feeDetails": {
+            "restaurantId": "259110",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 2500
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 2500
+        },
+        "parentId": "2113",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "500+",
+        "sla": {
+            "deliveryTime": 21,
+            "lastMileTravel": 0.2,
+            "serviceability": "SERVICEABLE",
+            "slaString": "21 mins",
+            "lastMileTravelString": "0.2 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-10-03 23:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1669879258/GFF_logo_new_xbycg6.png",
+                    "description": "gourmet"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "gourmet",
+                                "imageId": "v1669879258/GFF_logo_new_xbycg6.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "60% OFF",
+            "subHeader": "UPTO ₹120"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+        "context": "seo-data-570578e6-5fef-4363-916e-b601cea9d9b6"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/moti-mahal-delux-sitabuldi-nagpur-259110",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
